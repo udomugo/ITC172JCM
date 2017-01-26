@@ -1,0 +1,58 @@
+﻿html {
+    height: 100%;
+    font-size: 12px;
+}
+
+body {
+    background-color: #000000;
+    width: 95%;
+    height: 100%;
+    margin: auto;
+    
+}
+
+h1 {
+    color: white;
+}
+
+table#todoCalendar {
+    margin: auto;
+    color: ;
+    width: 100%;
+    height: 40%;
+    font-size: 2.4em;
+}
+
+table#todoCalendar a {
+    font-size: 0.7em;
+}
+
+table#todoCalendar th {
+    color: aqua;
+}
+
+table#todoCalendar td {
+    background-color: azure;
+}
+
+table#AgendaTable {
+    font-size: 1.7em;
+}
+
+table#AgendaTable {
+    empty-cells: hide;
+    color: white;
+    margin: auto;
+    float: left;
+}
+
+div#cal {
+    margin: auto;
+    width:85%;
+    height: 100%;
+}
+
+form#form1 {
+    height: 100%;
+    margin-top: 10%;
+}
