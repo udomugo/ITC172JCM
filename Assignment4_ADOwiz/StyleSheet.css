@@ -1,0 +1,39 @@
+﻿html {
+    height: 100%;
+    font-size: 12px;
+}
+
+body {
+    background-color: #000000;
+    width: 95%;
+    height: 100%;
+    margin: auto;
+    
+}
+
+div {
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: #fff;
+}
+
+
+table {
+    align-content: center;
+    empty-cells: hide;
+    color: white;
+    margin: auto;
+    float: left;
+}
+
+span#ResultLabel{
+    display: block;
+    color: white;
+}
